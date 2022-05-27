@@ -1,0 +1,77 @@
+2022-02-16T02:00:27.776Z [store-api] error POST  - Descrição, vídeo, data inicial, data final e data de criação são obrigatórios.
+2022-02-16T02:01:43.689Z [store-api] error POST  - Descrição, vídeo, data inicial, data final e data de criação são obrigatórios.
+2022-02-16T02:02:47.053Z [store-api] error POST  - Descrição, vídeo, data inicial, data final e data de criação são obrigatórios.
+2022-02-16T02:02:48.642Z [store-api] error POST  - Descrição, vídeo, data inicial, data final e data de criação são obrigatórios.
+2022-02-16T02:04:21.352Z [store-api] error POST  - next is not a function
+2022-02-16T02:05:48.429Z [store-api] error POST  - next is not a function
+2022-02-16T02:11:34.860Z [store-api] error POST  - next is not a function
+2022-02-16T02:11:43.640Z [store-api] error POST  - next is not a function
+2022-02-16T02:11:52.978Z [store-api] error POST  - next is not a function
+2022-02-16T02:13:23.323Z [store-api] error POST  - next is not a function
+2022-02-16T02:24:27.917Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:28:43.918Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:31:58.465Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:34:49.083Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:46:56.834Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:46:59.036Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:48:16.833Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:51:46.689Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:53:09.927Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:56:33.580Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:57:07.781Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:57:43.739Z [store-api] error POST  - client.close is not a function
+2022-02-16T02:59:22.602Z [store-api] error POST  - MongoClient must be connected to perform this operation
+2022-02-16T03:00:32.057Z [store-api] error POST  - MongoClient must be connected to perform this operation
+2022-02-16T03:04:25.205Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:08:34.036Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:08:43.492Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:08:55.794Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:10:03.695Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:10:05.836Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:12:27.420Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:13:37.917Z [store-api] error POST  - client.close is not a function
+2022-02-16T03:14:31.212Z [store-api] error POST  - client.close is not a function
+2022-02-16T11:38:19.166Z [store-api] error POST  - client.close is not a function
+2022-02-16T11:45:53.552Z [store-api] error POST  - client.connect is not a function
+2022-02-16T12:06:32.114Z [store-api] error POST  - client.connect is not a function
+2022-02-16T12:15:33.226Z [store-api] info POST /classes - undefined
+2022-02-16T12:17:02.431Z [store-api] info POST /classes - undefined
+2022-02-16T12:24:51.744Z [store-api] error POST  - teste.close is not a function
+2022-02-16T12:26:45.029Z [store-api] error POST  - teste.connect is not a function
+2022-02-16T12:27:41.174Z [store-api] info POST /classes - undefined
+2022-02-16T12:28:42.638Z [store-api] info POST /classes - undefined
+2022-02-16T15:01:21.627Z [store-api] info POST /classes - undefined
+2022-02-16T15:05:13.381Z [store-api] info POST /classes - undefined
+2022-02-16T15:09:20.309Z [store-api] info POST /classes - undefined
+2022-02-16T15:11:18.497Z [store-api] error POST  - teste.close is not a function
+2022-02-16T15:13:12.365Z [store-api] info POST /classes - undefined
+2022-02-16T15:15:09.748Z [store-api] info POST /classes - {"name":"asdfasdfasdf","description":"teste1","video":"teste2","data_init":"teste3","data_end":"teste4","date_created":"teste5","date_updated":"teste6","total_comments":"teste7","teste":"testeeee","_id":"620d14fd7e1ec436c8cbbad2"}
+2022-02-16T15:15:36.098Z [store-api] error POST  - teste.close is not a function
+2022-02-16T15:16:32.037Z [store-api] info POST /classes - {"name":"asdfasdfasdf","description":"teste1","video":"teste2","data_init":"teste3","data_end":"teste4","date_created":"teste5","date_updated":"teste6","total_comments":"teste7","teste":"testeeee","_id":"620d154f890ad6b31ec1c154"}
+2022-02-16T18:12:17.677Z [store-api] info POST /classes - {"name":"asdfasdfasdf","description":"teste1","video":"teste2","data_init":"teste3","data_end":"teste4","date_created":"teste5","date_updated":"teste6","total_comments":[],"_id":"620d3e813ae60ea7a0a69e6a"}
+2022-02-21T23:32:45.621Z [store-api] error GET  - "EAD".collection is not a function
+2022-02-21T23:34:33.896Z [store-api] info GET /classes
+2022-02-23T01:29:39.113Z [store-api] info GET /classes
+2022-02-23T01:33:56.939Z [store-api] error GET  - client.close is not a function
+2022-02-23T01:34:22.315Z [store-api] info GET /classes
+2022-02-23T01:36:44.739Z [store-api] info GET /classes/undefined
+2022-02-23T01:37:45.736Z [store-api] info GET /classes/undefined
+2022-02-23T01:50:27.986Z [store-api] info GET /classes/undefined
+2022-02-23T02:12:22.111Z [store-api] info GET /classes/"620d154f890ad6b31ec1c154"
+2022-02-23T02:14:42.588Z [store-api] error GET  - o_id is not defined
+2022-02-23T02:14:55.884Z [store-api] error GET  - o_id is not defined
+2022-02-23T02:15:17.469Z [store-api] info GET /classes/"620d154f890ad6b31ec1c154"
+2022-05-24T22:22:52.613Z [store-api] info GET /classes
+2022-05-24T22:33:17.647Z [store-api] info POST /classes - {"name":"de volta no desenvolvimento","description":"de volta no desenvolvimento","video":"de volta no desenvolvimento","data_init":"de volta no desenvolvimento","data_end":"de volta no desenvolvimento","date_created":"de volta no desenvolvimento","date_updated":"de volta no desenvolvimento","total_comments":"de volta no desenvolvimento","_id":"628d5d2dec7d8a8ff9478c78"}
+2022-05-24T22:33:24.305Z [store-api] info GET /classes
+2022-05-24T22:36:58.077Z [store-api] info GET /classes/"628d5d2dec7d8a8ff9478c78"
+2022-05-25T00:55:53.145Z [store-api] info GET /classes
+2022-05-25T01:02:11.896Z [store-api] info GET /classes
+2022-05-25T01:02:22.071Z [store-api] info PUT /classes - {"_id":"628d5d2dec7d8a8ff9478c78","name":"de volta no desenvolvimento ATUALIZADO","description":"de volta no desenvolvimentoATUALIZADO","video":"de volta no desenvolvimentoATUALIZADO","data_init":"de volta no desenvolvimentoATUALIZADO","data_end":"de volta no desenvolvimentoATUALIZADO","date_created":"de volta no desenvolvimentoATUALIZADO","date_updated":"de volta no desenvolvimentoATUALIZADO","total_comments":"de volta no desenvolvimentoATUALIZADO"}
+2022-05-25T01:02:26.562Z [store-api] info GET /classes
+2022-05-25T01:03:01.751Z [store-api] info GET /classes
+2022-05-25T01:07:07.914Z [store-api] error PUT  - Performing an update on the path '_id' would modify the immutable field '_id'
+2022-05-25T01:08:35.067Z [store-api] info PUT /classes - {"id":"628d5d2dec7d8a8ff9478c78","name":"de volta no desenvolvimento ATUALIZADO","description":"de volta no desenvolvimentoATUALIZADO","video":"de volta no desenvolvimentoATUALIZADO","data_init":"de volta no desenvolvimentoATUALIZADO","data_end":"de volta no desenvolvimentoATUALIZADO","date_created":"de volta no desenvolvimentoATUALIZADO","date_updated":"de volta no desenvolvimentoATUALIZADO","total_comments":"de volta no desenvolvimentoATUALIZADO"}
+2022-05-25T01:08:39.435Z [store-api] info GET /classes
+2022-05-25T01:21:08.030Z [store-api] info PUT /classes - {"name":"de volta no desenvolvimento ATUALIZADO222222222222222","description":"de volta no ATUALIZADO222222222222222","video":"de volta no ATUALIZADO222222222222222","data_init":"de volta no ATUALIZADO222222222222222","data_end":"de volta no ATUALIZADO222222222222222","date_created":"de volta no ATUALIZADO222222222222222","date_updated":"de volta no ATUALIZADO222222222222222","total_comments":"de volta no ATUALIZADO222222222222222"}
+2022-05-25T01:21:13.627Z [store-api] info GET /classes
