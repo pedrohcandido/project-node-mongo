@@ -54,9 +54,22 @@ async function updateClass( req, res, next ) {
 
 }
 
+async function deleteClass(req, res, next ) {
+  try{
+    const classId = req.params._id
+
+    res.send(await ServiceClass.deleteClass(classId));
+    logger.info(`DELETE /classes/:_id - ${classId}`)
+
+  } catch (err) {
+    next(err);
+  }
+}
+
 export default {
     createClass,
     getClasses,
     getClass,
-    updateClass
+    updateClass,
+    deleteClass
 }

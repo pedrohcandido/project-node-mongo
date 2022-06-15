@@ -9,11 +9,17 @@ async function getClasses() {
 }
 
 async function getClass(id) {
-  return await ClassRepository.getClass(id);
+  const infoClass = await ClassRepository.getClass(id);
+  infoClass.comments = await ClassRepository.getLastComments(id);
+  return infoClass;
 }
 
 async function updateClass(classInfo, classId) {
   return await ClassRepository.updateClass(classInfo, classId);
+}
+
+async function deleteClass(classId) {
+  return await ClassRepository.deleteClass(classId);
 }
 
 
@@ -21,5 +27,6 @@ export default {
   createClass,
   getClasses,
   getClass,
-  updateClass
+  updateClass,
+  deleteClass
 }

@@ -75,3 +75,137 @@
 2022-05-25T01:08:39.435Z [store-api] info GET /classes
 2022-05-25T01:21:08.030Z [store-api] info PUT /classes - {"name":"de volta no desenvolvimento ATUALIZADO222222222222222","description":"de volta no ATUALIZADO222222222222222","video":"de volta no ATUALIZADO222222222222222","data_init":"de volta no ATUALIZADO222222222222222","data_end":"de volta no ATUALIZADO222222222222222","date_created":"de volta no ATUALIZADO222222222222222","date_updated":"de volta no ATUALIZADO222222222222222","total_comments":"de volta no ATUALIZADO222222222222222"}
 2022-05-25T01:21:13.627Z [store-api] info GET /classes
+2022-06-01T01:28:55.009Z [store-api] info GET /classes
+2022-06-01T01:42:42.081Z [store-api] info GET /classes
+2022-06-01T01:42:55.644Z [store-api] info GET /classes/"628d5d2dec7d8a8ff9478c78"
+2022-06-01T01:43:30.500Z [store-api] info GET /classes/"628d5d2dec7d8a8ff9478c78"
+2022-06-01T01:43:34.085Z [store-api] info DELETE /classes/:_id - 628d5d2dec7d8a8ff9478c78
+2022-06-01T01:43:46.468Z [store-api] info GET /classes
+2022-06-01T01:43:53.036Z [store-api] info GET /classes/"628d5d2dec7d8a8ff9478c78"
+2022-06-02T01:43:09.603Z [store-api] info GET /classes
+2022-06-02T01:50:10.609Z [store-api] info GET /classes
+2022-06-02T01:50:15.311Z [store-api] error POST  - campos obrigatórios
+2022-06-02T01:50:47.503Z [store-api] info POST /comment - {"id_class":"teste","comment":"teste","data_created":"teste","_id":"62981777b6c8d88b15df0c7e"}
+2022-06-02T01:51:58.626Z [store-api] info POST /comment - {"id_class":"teste","comment":"teste","data_created":"teste","_id":"629817be46d3d84e46d199ef"}
+2022-06-02T01:59:31.186Z [store-api] error POST  - BSON field 'insert.documents.0' is the wrong type 'objectId', expected type 'object'
+2022-06-02T02:06:52.618Z [store-api] info POST /comment - {"id_class":{"$id_class":"628d5d2dec7d8a8ff9478c78"},"comment":"teste","data_created":"teste","_id":"62981b3c4f5afbaa950616dc"}
+2022-06-02T02:10:17.062Z [store-api] info POST /comment - {"id_class":{"ObjectId":"628d5d2dec7d8a8ff9478c78"},"comment":"teste","data_created":"teste","_id":"62981c084f5afbaa950616dd"}
+2022-06-05T14:28:08.335Z [store-api] info GET /classes
+2022-06-05T14:28:32.852Z [store-api] info POST /comment - {"id_class":"628d5d2dec7d8a8ff9478c78","comment":"teste","data_created":"teste","_id":"629cbd909797d48604189c44"}
+2022-06-05T14:55:58.399Z [store-api] info GET /classes/"628d5d2dec7d8a8ff9478c78"
+2022-06-05T14:56:19.528Z [store-api] info GET /classes/"620d154f890ad6b31ec1c154"
+2022-06-05T14:57:33.366Z [store-api] info POST /classes - {"name":"de volta no desenvolvimento","description":"de volta no desenvolvimento","video":"de volta no desenvolvimento","data_init":"de volta no desenvolvimento","data_end":"de volta no desenvolvimento","date_created":"de volta no desenvolvimento","date_updated":"de volta no desenvolvimento","total_comments":1,"_id":"629cc45d02a430a82c0aa110"}
+2022-06-05T14:57:37.555Z [store-api] info GET /classes
+2022-06-05T14:58:48.920Z [store-api] error POST  - Cannot read properties of null (reading 'total_comments')
+2022-06-05T15:00:10.142Z [store-api] error POST  - Cannot read properties of null (reading 'total_comments')
+2022-06-05T19:22:33.666Z [store-api] info POST /comment - {"id_class":"629cc45d02a430a82c0aa110","comment":"teste","data_created":"teste","_id":"629d024d4c66a0cda191fa8d"}
+2022-06-05T19:23:51.846Z [store-api] info POST /comment - {"id_class":"629cc45d02a430a82c0aa110","comment":"testeDEUCERTOOOO","data_created":"testeDEUUCERTOO","_id":"629d02c74c41717cdd83123c"}
+2022-06-05T19:37:55.090Z [store-api] info GET /comment 
+2022-06-05T19:46:49.713Z [store-api] info GET /comment 
+2022-06-05T19:47:07.988Z [store-api] info GET /classes
+2022-06-05T19:52:35.577Z [store-api] info GET /comment 
+2022-06-05T20:03:53.457Z [store-api] info POST /comment - {"id_class":"629cc45d02a430a82c0aa110","comment":"testeDEUCERTOOOO","data_created":"testeDEUUCERTOO","_id":"629d0c2832260ce6da0586fe"}
+2022-06-05T20:03:59.796Z [store-api] info GET /comment 
+2022-06-05T20:04:24.018Z [store-api] info POST /comment - {"id_class":"629cc45d02a430a82c0aa110","comment":"testeDELETADO","data_created":"testeDELETADO","_id":"629d0c4732260ce6da0586ff"}
+2022-06-05T20:04:28.905Z [store-api] info GET /comment 
+2022-06-05T20:04:40.146Z [store-api] info DELETE /classes/:_id - 629d0c4732260ce6da0586ff
+2022-06-05T20:04:45.735Z [store-api] info GET /comment 
+2022-06-05T20:05:04.223Z [store-api] info DELETE /classes/:_id - 629d0c4732260ce6da0586ff
+2022-06-05T20:05:45.808Z [store-api] info DELETE /classes/:_id - 629d0c4732260ce6da0586ff
+2022-06-05T20:07:00.721Z [store-api] info DELETE /classes/:_id - 629d0c4732260ce6da0586ff
+2022-06-05T20:07:05.052Z [store-api] info GET /comment 
+2022-06-05T20:07:59.947Z [store-api] info DELETE /Comments - "629d0c4732260ce6da0586ff"
+2022-06-05T20:08:08.854Z [store-api] info GET /comment 
+2022-06-05T20:10:13.849Z [store-api] info GET /classes
+2022-06-05T20:10:26.009Z [store-api] info GET /comment 
+2022-06-05T20:10:43.779Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:29:13.507Z [store-api] error GET  - Invalid sort direction: "629cc45d02a430a82c0aa110"
+2022-06-05T20:30:07.521Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:30:41.117Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:32:34.285Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:36:40.683Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:37:48.833Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:38:43.902Z [store-api] info POST /comment - {"id_class":"629cc45d02a430a82c0aa110","comment":"teste Ultimo comentario cadastrado 1","data_created":"teste ultimo","_id":"629d1453b07eeae8322dbbf8"}
+2022-06-05T20:38:48.753Z [store-api] info POST /comment - {"id_class":"629cc45d02a430a82c0aa110","comment":"teste Ultimo comentario cadastrado 2","data_created":"teste ultimo","_id":"629d1458b07eeae8322dbbf9"}
+2022-06-05T20:38:54.433Z [store-api] info POST /comment - {"id_class":"629cc45d02a430a82c0aa110","comment":"teste Ultimo comentario cadastrado 3","data_created":"teste ultimo","_id":"629d145db07eeae8322dbbfa"}
+2022-06-05T20:38:59.857Z [store-api] info GET /comment 
+2022-06-05T20:39:07.597Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:39:36.751Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T20:43:12.056Z [store-api] info GET /classes
+2022-06-05T21:32:05.432Z [store-api] error GET  - Cannot set properties of undefined (setting 'last_comment')
+2022-06-05T21:34:23.980Z [store-api] info GET /classes
+2022-06-05T21:36:00.658Z [store-api] info GET /classes
+2022-06-05T21:37:58.487Z [store-api] info GET /classes
+2022-06-05T21:40:39.421Z [store-api] info GET /classes
+2022-06-05T21:45:35.649Z [store-api] info GET /classes
+2022-06-05T22:01:17.794Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-05T22:01:22.339Z [store-api] error GET  - _id is not defined
+2022-06-05T22:02:59.097Z [store-api] error GET  - _id is not defined
+2022-06-05T22:04:33.012Z [store-api] error GET  - idclass is not defined
+2022-06-05T22:05:01.546Z [store-api] error GET  - _id is not defined
+2022-06-05T22:08:17.865Z [store-api] error GET  - _id is not defined
+2022-06-05T22:08:40.360Z [store-api] info GET /classes
+2022-06-05T22:09:19.078Z [store-api] info GET /classes
+2022-06-05T22:13:44.672Z [store-api] info GET /classes
+2022-06-05T22:15:40.259Z [store-api] info GET /classes
+2022-06-05T22:16:06.584Z [store-api] info GET /classes
+2022-06-05T22:17:02.631Z [store-api] info GET /classes
+2022-06-05T22:19:17.234Z [store-api] info GET /classes
+2022-06-05T22:20:42.861Z [store-api] info GET /classes
+2022-06-05T22:21:44.524Z [store-api] info GET /classes
+2022-06-05T22:22:58.589Z [store-api] info GET /classes
+2022-06-05T22:23:42.636Z [store-api] info GET /classes
+2022-06-05T22:24:36.562Z [store-api] info GET /classes
+2022-06-05T22:26:59.894Z [store-api] info GET /classes
+2022-06-05T22:27:13.985Z [store-api] info GET /classes
+2022-06-05T22:27:36.283Z [store-api] info GET /classes
+2022-06-05T22:28:22.711Z [store-api] error GET  - comments.forEach is not a function
+2022-06-05T22:29:53.144Z [store-api] info GET /comment 
+2022-06-05T22:32:24.549Z [store-api] error GET  - client.db(...).collection(...).findOne(...).sort is not a function
+2022-06-05T22:32:53.753Z [store-api] info GET /classes
+2022-06-05T22:33:23.188Z [store-api] info GET /classes
+2022-06-05T22:33:47.262Z [store-api] info GET /classes
+2022-06-05T22:35:11.224Z [store-api] error GET  - idclass is not defined
+2022-06-05T22:35:28.825Z [store-api] info GET /classes
+2022-06-05T22:36:45.385Z [store-api] info GET /classes
+2022-06-05T23:03:33.414Z [store-api] info GET /classes
+2022-06-07T23:47:53.941Z [store-api] info GET /classes
+2022-06-07T23:47:59.351Z [store-api] info GET /classes
+2022-06-08T00:13:06.710Z [store-api] info GET /classes
+2022-06-08T00:24:35.383Z [store-api] info GET /classes
+2022-06-08T00:25:19.635Z [store-api] info GET /classes
+2022-06-08T00:28:31.119Z [store-api] info GET /classes
+2022-06-08T00:31:02.658Z [store-api] info GET /classes
+2022-06-08T00:33:30.595Z [store-api] info GET /classes
+2022-06-08T00:34:45.546Z [store-api] error GET  - obj.comments_related[0].toArray is not a function
+2022-06-08T00:37:19.618Z [store-api] info GET /classes
+2022-06-08T00:38:27.781Z [store-api] info GET /classes
+2022-06-08T00:41:09.767Z [store-api] error GET  - objects is not defined
+2022-06-08T00:42:23.560Z [store-api] info GET /classes
+2022-06-08T00:47:13.045Z [store-api] info GET /classes
+2022-06-08T00:49:26.021Z [store-api] error GET  - resposta is not defined
+2022-06-08T00:56:38.565Z [store-api] info GET /classes
+2022-06-08T00:57:14.002Z [store-api] info GET /classes
+2022-06-08T00:59:21.987Z [store-api] info GET /classes
+2022-06-08T01:00:11.264Z [store-api] info GET /classes
+2022-06-14T23:10:01.520Z [store-api] info GET /classes
+2022-06-14T23:11:26.808Z [store-api] info GET /classes/"629cc45d02a430a82c0aa110"
+2022-06-14T23:11:45.463Z [store-api] info GET /classes
+2022-06-14T23:14:01.259Z [store-api] info GET /classes
+2022-06-14T23:15:13.069Z [store-api] info GET /classes
+2022-06-14T23:43:46.493Z [store-api] error GET  - A pipeline stage specification object must contain exactly one field.
+2022-06-15T00:12:46.668Z [store-api] error GET  - A pipeline stage specification object must contain exactly one field.
+2022-06-15T00:18:56.573Z [store-api] info GET /classes
+2022-06-15T00:19:35.504Z [store-api] info GET /classes
+2022-06-15T00:26:22.414Z [store-api] info GET /classes
+2022-06-15T00:26:53.228Z [store-api] error GET  - the $sort key specification must be an object
+2022-06-15T00:29:32.059Z [store-api] info GET /classes
+2022-06-15T00:30:03.624Z [store-api] info GET /classes
+2022-06-15T00:33:39.570Z [store-api] info GET /classes
+2022-06-15T00:35:57.393Z [store-api] info GET /comment 
+2022-06-15T00:36:58.244Z [store-api] info GET /classes
+2022-06-15T00:37:58.549Z [store-api] info POST /comment - {"id_class":"620d154f890ad6b31ec1c154","comment":"teste Ultimo comentario xxxxxxxxx","data_created":"2022-06-01","_id":"62a929e6e15bcf25ab91c631"}
+2022-06-15T00:38:05.696Z [store-api] info GET /classes
+2022-06-15T00:38:41.604Z [store-api] info GET /comment 
+2022-06-15T00:42:13.345Z [store-api] info POST /comment - {"id_class":"620d154f890ad6b31ec1c154","comment":"teste Ultimo comentario xxxxxxxxx","data_created":"2022-06-16T18:25:43.511Z","_id":"62a92ae4e15bcf25ab91c632"}
+2022-06-15T00:46:06.761Z [store-api] info GET /classes
